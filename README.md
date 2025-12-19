@@ -1,6 +1,6 @@
 # webtest
 依旧一坨好吧
-
+越想越气，不是本来就发烧写实验，然后给的这实验材料也是一坨，老师给的driver是99version，谷歌是143version，这还不是关键，他给的网站最后一个测试用例压根对不上，我真是醉了，他就是少了一个价格排序，只有默认是最新。还有这个web自动化测试，这咋截图，我只能录个视频？
 ```python
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
